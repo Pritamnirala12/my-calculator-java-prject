@@ -18,8 +18,9 @@ A powerful, user-friendly scientific calculator application built using **Java S
 
 
 ## 🖥️ GUI Preview > *(You can add a screenshot here once the GUI is ready)* 
-> Example:  ![image](![image](https://github.com/user-attachments/assets/b86bfe5a-d9d5-478d-87e3-96a54ac56dae)
-) ![image](![image](https://github.com/user-attachments/assets/32dab469-d0b0-4e42-b280-66e20d8c0acc)
+> Example:![image](https://github.com/user-attachments/assets/f550d137-9ab8-4275-b22d-1dac83cbc9e4) ![image](https://github.com/user-attachments/assets/054e7ad2-796a-4093-bbc3-006b4e72db3a)
+
+
 )
 
 ## 🔧 Technologies Used
