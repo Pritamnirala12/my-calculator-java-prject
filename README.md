@@ -18,7 +18,9 @@ A powerful, user-friendly scientific calculator application built using **Java S
 
 
 ## 🖥️ GUI Preview > *(You can add a screenshot here once the GUI is ready)* 
-> Example:  ![image](https://github.com/user-attachments/assets/7126ef2d-66e3-4854-9678-f60a09731a4c) ![image](https://github.com/user-attachments/assets/44394c8a-4ddf-462b-88b4-0dede3bddfec)
+> Example:  ![image](![image](https://github.com/user-attachments/assets/b86bfe5a-d9d5-478d-87e3-96a54ac56dae)
+) ![image](![image](https://github.com/user-attachments/assets/32dab469-d0b0-4e42-b280-66e20d8c0acc)
+)
 
 ## 🔧 Technologies Used
 
@@ -34,15 +36,14 @@ A powerful, user-friendly scientific calculator application built using **Java S
 1. ✔️ Make sure Java JDK is installed.
 2. ✔️ Save the file as 'ScientificCalculator.java`
 3. ✔️ Compile the program:
-   ```bash
   javac ScientificCalculator.java
 
->   👨‍💻 Submitted By
->     Pritam Kumar   (221107140036),
->     Hasan Iqbal (221107140037),
->     Wasif Ansari (221107140035),
->     Sakir Ansari (221107140033),
->     Raushan Kumar(221107140044) 
+   👨‍💻 Submitted By
+     Pritam Kumar   (221107140036),
+     Hasan Iqbal (221107140037),
+     Wasif Ansari (221107140035),
+     Sakir Ansari (221107140033),
+     Raushan Kumar(221107140044) 
 
   ## 👨‍🏫 Guided By
  ** Mr. Harendra Kumar **
