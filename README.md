@@ -39,12 +39,13 @@ A powerful, user-friendly scientific calculator application built using **Java S
 3. ✔️ Compile the program:
   javac ScientificCalculator.java
 
-   👨‍💻 Submitted By
-     Pritam Kumar   (221107140036),
-     Hasan Iqbal (221107140037),
-     Wasif Ansari (221107140035),
-     Sakir Ansari (221107140033),
-     Raushan Kumar(221107140044) 
+
+👨‍💻 Submitted By
+Pritam Kumar (221107140036),
+Hasan Iqbal (221107140037),
+Wasif Ansari (221107140035),
+Sakir Ansari (221107140033),
+Raushan Kumar(221107140044) 
 
   ## 👨‍🏫 Guided By
  ** Mr. Harendra Kumar **
@@ -56,5 +57,5 @@ Centurion University of Technology and Management
 🎓 Diploma in Computer Science Engineering (2022–2025)
 📍 Sheikhpura, Bihar, India
 📧 pritamkumar773355@gmail.com
-🌐 Portfolio | LinkedIn
+🌐 Portfolio :https://pritamkr.netlify.app/ | LinkedIn :https://www.linkedin.com/in/pritamkumar11/
 
