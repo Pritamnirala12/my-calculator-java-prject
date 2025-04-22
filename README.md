@@ -40,7 +40,7 @@ A powerful, user-friendly scientific calculator application built using **Java S
   javac ScientificCalculator.java
 
 
-👨‍💻 Submitted By
+##👨‍💻 Submitted By
 Pritam Kumar (221107140036),
 Hasan Iqbal (221107140037),
 Wasif Ansari (221107140035),
