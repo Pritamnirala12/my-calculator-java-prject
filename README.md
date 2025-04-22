@@ -40,11 +40,11 @@ A powerful, user-friendly scientific calculator application built using **Java S
   javac ScientificCalculator.java
 
 
-##👨‍💻 Submitted By
-Pritam Kumar (221107140036),
-Hasan Iqbal (221107140037),
-Wasif Ansari (221107140035),
-Sakir Ansari (221107140033),
+## 👨‍💻 Submitted By##
+Pritam Kumar (221107140036)
+Hasan Iqbal (221107140037)
+Wasif Ansari (221107140035)
+Sakir Ansari (221107140033)
 Raushan Kumar(221107140044) 
 
   ## 👨‍🏫 Guided By
