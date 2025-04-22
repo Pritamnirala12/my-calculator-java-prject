@@ -40,7 +40,7 @@ A powerful, user-friendly scientific calculator application built using **Java S
   javac ScientificCalculator.java
 
 
-## 👨‍💻 Submitted By##
+## 👨‍💻 Submitted By
 Pritam Kumar (221107140036)
 Hasan Iqbal (221107140037)
 Wasif Ansari (221107140035)
@@ -52,7 +52,7 @@ Raushan Kumar(221107140044)
 Teaching Assistance of Computer Science Engineering
 Centurion University of Technology and Management
 
-👤  Author
+## 👤  Author
 👨‍💻 Pritam Kumar
 🎓 Diploma in Computer Science Engineering (2022–2025)
 📍 Sheikhpura, Bihar, India
