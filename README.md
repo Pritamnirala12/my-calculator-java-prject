@@ -46,10 +46,10 @@ Wasif Ansari (221107140035)
 Sakir Ansari (221107140033)
 Raushan Kumar(221107140044) 
 
-  ## 👨‍🏫 Guided By
+## 👨‍🏫 Guided By
  ** Mr. Harendra Kumar **
 Teaching Assistance of Computer Science Engineering
-Centurion University of Technology and Management
+At Centurion University of Technology and Management
 
 ## 👤  Author
 👨‍💻 Pritam Kumar
